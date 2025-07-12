@@ -18,3 +18,7 @@ yarn-error.log*
 # IDE
 .idea
 .vscode
+
+# tmp
+tmp/*
+!tmp/.gitkeep
