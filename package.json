@@ -2,6 +2,7 @@
   "name": "alchemy-examples",
   "version": "0.0.1",
   "description": "Alchemy Examples",
+  "type": "module",
   "scripts": {},
   "repository": {
     "type": "git",
@@ -18,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/trade-signal/alchemy-examples/issues"
   },
-  "homepage": "https://github.com/trade-signal/alchemy-examples#readme"
+  "homepage": "https://github.com/trade-signal/alchemy-examples#readme",
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "viem": "^2.31.7"
+  }
 }
