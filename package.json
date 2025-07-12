@@ -1,0 +1,22 @@
+{
+  "name": "alchemy-examples",
+  "version": "0.0.1",
+  "description": "Alchemy Examples",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trade-signal/alchemy-examples.git"
+  },
+  "keywords": [
+    "alchemy",
+    "web3",
+    "ethereum",
+    "tutorial"
+  ],
+  "author": "yzqzy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trade-signal/alchemy-examples/issues"
+  },
+  "homepage": "https://github.com/trade-signal/alchemy-examples#readme"
+}
