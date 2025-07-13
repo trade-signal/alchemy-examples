@@ -1,15 +1,17 @@
 {
-  "name": "alchemy-examples",
+  "name": "web3-provider-examples",
   "version": "0.0.1",
-  "description": "Alchemy Examples",
+  "description": "Web3 Provider Examples",
   "type": "module",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trade-signal/alchemy-examples.git"
+    "url": "git+https://github.com/trade-signal/web3-provider-examples.git"
   },
   "keywords": [
     "alchemy",
+    "quicknode",
+    "bitquery",
     "web3",
     "ethereum",
     "tutorial"
@@ -17,9 +19,9 @@
   "author": "yzqzy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/trade-signal/alchemy-examples/issues"
+    "url": "https://github.com/trade-signal/web3-provider-examples/issues"
   },
-  "homepage": "https://github.com/trade-signal/alchemy-examples#readme",
+  "homepage": "https://github.com/trade-signal/web3-provider-examples#readme",
   "dependencies": {
     "axios": "^1.10.0",
     "dayjs": "^1.11.13",

@@ -1,3 +1,3 @@
-# alchemy examples
+# web3 provider examples
 
-ALchemy Examples
+Web3 Provider Examples
