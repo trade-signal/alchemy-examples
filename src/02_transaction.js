@@ -34,7 +34,7 @@ const getAssetTransfers = async ({
     fromAddress: "0x0000000000000000000000000000000000000000",
     toAddress: address,
     // category: ["external", "internal", "erc20", "erc721", "erc1155"],
-    category: ["erc20", "erc721", "erc1155"],
+    category: ["external", "internal", "erc20"],
     pageKey: pageKey,
     maxCount: toHex(maxCount)
   };
