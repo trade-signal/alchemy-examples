@@ -17,7 +17,9 @@ export async function getHistoricalSwapsFormBitquery({
   }
 
   if (token) {
-    whereConditions.push(`Currency: { SmartContract: { is: "${token}" } }`);
+    whereConditions.push(
+      `Trade: { Currency: { SmartContract: { is: "${token}" } } }`
+    );
   }
   if (wallet) {
     whereConditions.push(`Transaction: { From: { is: "${wallet}" } }`);
